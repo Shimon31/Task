@@ -4,12 +4,19 @@ A production-grade Flutter shopping application built with **BLoC + MVVM** clean
 
 ---
 
+
+
 ## 📱 Screenshots
 
-| Product List | Product Detail | Favorites | Error State |
-|---|---|---|---|
-| Shimmer loading → grid of products | Full detail with collapsing image | Persisted across restarts | Retry button |
+<table>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/97ea75d8-db4a-493e-8236-52704e46fb0e" width="200"/></td>
+    <td><img src="https://github.com/user-attachments/assets/2cf1f2d1-7874-4e1f-b451-55fef10b8987" width="200"/></td>
+    <td><img src="https://github.com/user-attachments/assets/9f414d93-a718-42c7-8ec7-144e7d38d22b" width="200"/></td>
+    <td><img src="https://github.com/user-attachments/assets/fe7734dc-bfcc-4e6c-964f-2103f4732390" width="200"/></td>
 
+  </tr>
+</table>
 ---
 
 ## 🚀 Project Setup Instructions
